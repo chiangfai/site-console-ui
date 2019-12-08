@@ -51,5 +51,3 @@ npm run lint:fix
 ```bash
 npm test
 ```
-
-## More
